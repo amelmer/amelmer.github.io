@@ -31,7 +31,7 @@ GPA: 3.97 | Awards: Received Provost Honors every quarter; Graduated Summa Cum L
 
 ## Internships
 
-### Feeding Americ
+### Feeding America
 <i>Graduate Research Intern, June 2023 - Present</i><br/>
 *	Conduct quantitative data analysis of network-wide surveys using Excel and R
 * Conduct qualitative data analysis of network-wide surveys using Excel and Qualtrics
