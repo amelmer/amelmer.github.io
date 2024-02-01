@@ -107,6 +107,31 @@ GPA: 3.97 | Awards: Received Provost Honors every quarter; Graduated Summa Cum L
 <i>2020 Leaders Program Participant, August 2020 - September 2020</i>
 *	Connected with and mobilized voters through weekly text-banking, phone-banking, and relational outreach
 *	Managed three voter outreach events and recruited volunteers to participate
-*	Engaged in weekly meetings to learn more about voter outreach strategies and policies and candidates Greenpeace was supporting 
+*	Engaged in weekly meetings to learn more about voter outreach strategies and policies and candidates Greenpeace was supporting
+
+## Work Experience
+### Neubauer Collegium for Culture and Society
+<i>Desk Attendant/Event Assistant, September 2022 - Present</i>
+*	Assist visitors to the building by directing them to meeting or lecture locations
+*	Inform visitors from the general public about the current gallery exhibition
+*	Provide assistance over the phone to those that call the collegium
+*	Assist with event set up and clean up and direct attendees throughout events
+
+### Birch Aquarium Visitor Services
+<i>Admissions Clerk, August 2021 - June 2022</i>
+*	Assisted 400-1600 visitors per day upon entry to aquarium or over phone
+*	Ensured COVID-19 protocol was followed to ensure the safety of guests
+*	Sold tickets and memberships to guests, and rescheduled and refunded ticket reservations
+
+### UC San Diego Recreation
+<i>Triton Health Ambassador,	November 2020 - April 2021</i>
+*	Enforced campus COVID-19 protocol including masking, social distancing, and regular COVID testing
+*	Assembled, distributed, and collected COVID-19 test kits to students and staff
+*	Assisted students and employees in using COVID-19 test vending machines
+
+## Volunteer Work
+### Chicago Justice Project
+<i>CPD Cost Group Member, January 2024 - Present</i>
+*	Conduct analysis to assess hidden costs of the Chicago Police Department
 
 
