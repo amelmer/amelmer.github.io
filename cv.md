@@ -80,7 +80,7 @@ GPA: 3.97 | Awards: Received Provost Honors every quarter; Graduated Summa Cum L
 <i>Social Lead,	September 2023 - Present</i>
 * Organized a wide variety of events each quarter to provide a safe space for those at the Harris School of Public Policy who are a part of the LGBTQ+ community
 * Events included weekly study halls, yoga and meditation events, and board game nights
-* Considerations in planning events were providing events each quarter hat fit a variety of social batteries and comfortability around alcohol
+* Considerations in planning events were providing events each quarter that fit a variety of personality types and levels of comfortability around alcohol
 
 ### University of Chicago Pickleball Club
 <i>Social Media Chair, September 2023 - Present</i>
