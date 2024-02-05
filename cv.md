@@ -136,7 +136,7 @@ GPA: 3.97 | Awards: Received Provost Honors every quarter; Graduated Summa Cum L
 
 ### Greenpeace
 <i>2020 Leaders Program Participant & Text Banking Volunteer, August 2020 - October 2020</i>
-*	As a participant in the 2020 Leaders Program I gained experience in text-banking, phone banking, relational outreach, and volunteer recruitment. I organized three voter outreach events as a part of the program.
+*	As a participant in the 2020 Leaders Program, I gained experience in text-banking, phone banking, relational outreach, and volunteer recruitment. I organized three voter outreach events as a part of the program.
 *	As a member of the text banking team, I volunteered for a minimum of 3 hours/week to reach out to registered voters in order to encourage and help individuals who care about environmental issues to vote in November.
 
 ### National Charity League
