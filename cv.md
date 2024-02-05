@@ -134,4 +134,15 @@ GPA: 3.97 | Awards: Received Provost Honors every quarter; Graduated Summa Cum L
 <i>CPD Cost Group Member, January 2024 - Present</i>
 *	Conduct analysis to assess hidden costs of the Chicago Police Department
 
+### Greenpeace
+<i>2020 Leaders Program Participant & Text Banking Volunteer, August 2020 - October 2020</i>
+*	As a participant in the 2020 Leaders Program I gained experience in text-banking, phone banking, relational outreach, and volunteer recruitment. I organized three voter outreach events as a part of the program.
+*	As a member of the text banking team, I volunteered for a minimum of 3 hours/week to reach out to registered voters in order to encourage and help individuals who care about environmental issues to vote in November.
+
+### National Charity League
+<i>Volunteer, June 2013 - May 2019</i>
+*	As a member of National Charity League, I volunteered a minimum of 15 hours/year from seventh grade to my senior year of high school.
+*	I was very involved in the planning and execution of my class’ senior project for which we organized and taught a dance class for senior citizens at my local community center.
+*	In addition to volunteering, I also held a leadership role every year. These included Class President, Vice President, Vice President of Philanthropy and more.
+
 
