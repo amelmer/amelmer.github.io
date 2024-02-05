@@ -76,7 +76,7 @@ GPA: 3.97 | Awards: Received Provost Honors every quarter; Graduated Summa Cum L
 *	Fundraised over $380 through developing and running a Read-A-Thon event
 
 ## Leadership Experience
-### OutPolitik	Chicago
+### OutPolitik
 <i>Social Lead,	September 2023 - Present</i>
 * Organized a wide variety of events each quarter to provide a safe space for those at the Harris School of Public Policy who are a part of the LGBTQ+ community
 * Events included weekly study halls, yoga and meditation events, and board game nights
