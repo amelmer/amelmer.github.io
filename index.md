@@ -10,3 +10,5 @@ Currently, I am a second-year Master of Public Policy Candidate at the Univerist
 I have a strong interest in utilizing data to ensure that implemented programs are best serving their intended demographics, and I have a variety of experiences working in the areas of food insecurity, housing, and criminal justice.
 
 [Click here](/cv) to see my full CV.
+
+{% include archive.html %}
