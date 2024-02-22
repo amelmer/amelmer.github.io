@@ -7,7 +7,7 @@ title: CV
 
 {% include contact.html %}
 
-<b>Table of Contents</b><br/>
+<h2>Table of Contents</h2>
 <a href="#education">Education</a> <br/>
 <a href="#internships">Internships</a> <br/>
 <a href="#leadership">Leadership Experience</a> <br/>
