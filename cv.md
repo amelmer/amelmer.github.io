@@ -7,7 +7,9 @@ title: CV
 
 {% include contact.html %}
 
-## Education
+<a href="#education">Education</a> | <a href="#internships">Internships</a> | <a href="#leadership">Leadership Experience</a> | <a href="#work">Work Experience</a> | <a href="#volunteer">Volunteer Work</a>
+
+## <a id="education">Education</a>
 
 ### Harris School of Public Policy, University of Chicago
 <i>Master of Public Policy, September 2022 - June 2024</i><br/>
@@ -29,7 +31,7 @@ GPA: 3.97 | Awards: Received Provost Honors every quarter; Graduated Summa Cum L
 * Attended a three-day conference focused on developing leadership for social justice
 * Researched the effects of toxic waste sites and provided policy suggestions to address their impact on typically poor communities of color
 
-## Internships
+## <a id="internships">Internships</a>
 
 ### Feeding America
 <i>Graduate Research Intern, June 2023 - Present</i>
@@ -75,7 +77,7 @@ GPA: 3.97 | Awards: Received Provost Honors every quarter; Graduated Summa Cum L
 *	Designed infographics using Canva to illustrate the pillars of and impacts of the programs
 *	Fundraised over $380 through developing and running a Read-A-Thon event
 
-## Leadership Experience
+## <a id="leadership">Leadership Experience</a>
 ### OutPolitik
 <i>Social Lead,	September 2023 - Present</i>
 * Organized a wide variety of events each quarter to provide a safe space for those at the Harris School of Public Policy who are a part of the LGBTQ+ community
@@ -109,7 +111,7 @@ GPA: 3.97 | Awards: Received Provost Honors every quarter; Graduated Summa Cum L
 *	Managed three voter outreach events and recruited volunteers to participate
 *	Engaged in weekly meetings to learn more about voter outreach strategies and policies and candidates Greenpeace was supporting
 
-## Work Experience
+## <a id="work">Work Experience</a>
 ### Neubauer Collegium for Culture and Society
 <i>Desk Attendant/Event Assistant, September 2022 - Present</i>
 *	Assist visitors to the building by directing them to meeting or lecture locations
@@ -129,7 +131,7 @@ GPA: 3.97 | Awards: Received Provost Honors every quarter; Graduated Summa Cum L
 *	Assembled, distributed, and collected COVID-19 test kits to students and staff
 *	Assisted students and employees in using COVID-19 test vending machines
 
-## Volunteer Work
+## <a id="volunteer">Volunteer Work</a>
 ### Chicago Justice Project
 <i>CPD Cost Group Member, January 2024 - Present</i>
 *	Conduct analysis to assess hidden costs of the Chicago Police Department
