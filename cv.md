@@ -8,11 +8,13 @@ title: CV
 {% include contact.html %}
 
 <h2>Table of Contents</h2>
+<ul>
 <li><a href="#education">Education</a></li>
 <li><a href="#internships">Internships</a></li>
 <li><a href="#leadership">Leadership Experience</a></li>
 <li><a href="#work">Work Experience</a></li>
 <li><a href="#volunteer">Volunteer Work</a></li>
+</ul>
 
 ## <a id="education">Education</a>
 ### Harris School of Public Policy, University of Chicago
