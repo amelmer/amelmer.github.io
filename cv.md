@@ -13,9 +13,8 @@ title: CV
 <a href="#leadership">Leadership Experience</a> <br/>
 <a href="#work">Work Experience</a> <br/>
 <a href="#volunteer">Volunteer Work</a> <br/>
-<br/>
-## <a id="education">Education</a>
 
+## <a id="education">Education</a>
 ### Harris School of Public Policy, University of Chicago
 <i>Master of Public Policy, September 2022 - June 2024</i><br/>
 GPA: 3.87 | Intended Certificates: Data Analytics (Python), Policy Analysis 
