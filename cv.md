@@ -18,8 +18,8 @@ title: CV
 
 ## <a id="education">Education</a>
 ### Harris School of Public Policy, University of Chicago
-<i>Master of Public Policy, September 2022 - June 2024</i><br/>
-GPA: 3.87 | Intended Certificates: Data Analytics (Python), Policy Analysis 
+<i>Master of Public Policy, September 2022 - May 2024</i><br/>
+GPA: 3.90, Graduated with Honors | Intended Certificates: Data Analytics (Python), Policy Analysis 
 * Involvements: OutPolitik (Social Lead), Harris Community Action (Fellow), Chicago Policy Review (Data Visualization Specialist), UChicago Pickleball (Social Media Chair), Women in Public Policy, Harris Mentor Program
 
 ### Harris Community Action										       
@@ -40,11 +40,11 @@ GPA: 3.97 | Awards: Received Provost Honors every quarter; Graduated Summa Cum L
 ## <a id="internships">Internships</a>
 
 ### Feeding America
-<i>Graduate Research Intern, June 2023 - Present</i>
-*	Conduct quantitative data analysis of network-wide surveys using Excel and R
-* Conduct qualitative data analysis of network-wide surveys using Excel and Qualtrics
-* Develop data visualizations using Excel, R, and Qualtrics
-* Develop reports to communicate results of network-wide surveys to national organization staff and network members
+<i>Graduate Research Intern, June 2023 - May 2024</i>
+*	Conducted quantitative data analysis of network-wide surveys using Excel and R
+* Conducted qualitative data analysis of network-wide surveys using Excel and Qualtrics
+* Developed data visualizations using Excel, R, and Qualtrics
+* Developed reports to communicate results of network-wide surveys to national organization staff and network members
 
 ### Illinois Criminal Justice Information Authority
 <i>Center for Victim Studies Research Intern, June 2023 – September 2023</i>
