@@ -14,13 +14,19 @@ title: CV
 <li><a href="#leadership">Leadership Experience</a></li>
 <li><a href="#work">Work Experience</a></li>
 <li><a href="#volunteer">Volunteer Work</a></li>
+<li><a href="#portfolio">Portfolio</a></li>
 </ul>
 
 ## <a id="education">Education</a>
 ### Harris School of Public Policy, University of Chicago
 <i>Master of Public Policy, September 2022 - May 2024</i><br/>
-GPA: 3.90, Graduated with Honors | Intended Certificates: Data Analytics (Python), Policy Analysis 
-* Involvements: OutPolitik (Social Lead), Harris Community Action (Fellow), Chicago Policy Review (Data Visualization Specialist), UChicago Pickleball (Social Media Chair), Women in Public Policy, Harris Mentor Program
+GPA: 3.90, Graduated with Honors | Specializations: Data Analytics (Python), Policy Analysis 
+* Involvements: OutPolitik (Social Lead), Harris Community Action (Fellow), Harris Policy Labs (Team Member), Chicago Policy Review (Data Visualization Specialist), UChicago Pickleball (Social Media Chair), Women in Public Policy, Harris Mentor Program
+
+### Harris Policy Labs
+<i>Team Member, Partner Organization: State Workforce Agency, March 2024 – May 2024</i>
+*	Queried secure database using SQL
+*	Conducted analysis of time lapse between application and receipt of benefits using Python and R to identify potential inequities
 
 ### Harris Community Action										       
 <i>Program Fellow, Partner Organization: Serving People with a Mission, January 2023 - May 2023</i>
@@ -41,29 +47,31 @@ GPA: 3.97 | Awards: Received Provost Honors every quarter; Graduated Summa Cum L
 
 ### Feeding America
 <i>Graduate Research Intern, June 2023 - May 2024</i>
-*	Conducted quantitative data analysis of network-wide surveys using Excel and R
-* Conducted qualitative data analysis of network-wide surveys using Excel and Qualtrics
+*	Conducted quantitative and qualitative data analysis of network-wide surveys using Excel, R, and Qualtrics
 * Developed data visualizations using Excel, R, and Qualtrics
 * Developed reports to communicate results of network-wide surveys to national organization staff and network members
+* Designed surveys to capture the experiences of pilot participants to inform program scaling
+* Conducted a literature review on the experiences of food insecurity within the LGBTQIA2S+ community
 
 ### Illinois Criminal Justice Information Authority
 <i>Center for Victim Studies Research Intern, June 2023 – September 2023</i>
 * Conducted literature reviews on risk factors for revictimization
 * Provided recommendations based on literature surrounding risk factors for ACEs to inform revisions to the program intake form
 * Developed data visualizations for year-end reports using Excel
+* Advised on drafting of Notice of Funding Opportunity
 
 ### Illinois Justice Project
 <i>Intern, March 2023 – June 2023</i>
 * Attended coalition meetings weekly and assisted with notetaking and communication with panelists and guest speakers
 * Collected a list of news articles from a variety of sources related to criminal justice to send out in a weekly newsletter
-* Researched relevant legislation
+* Researched relevant legislation to inform decisions about endorsements
 
 ### UPLIFT San Diego
 <i>Home Team Intern,	September 2021 - June 2022</i>
 * Engaged with landlords and community-based resources to find available housing and create partnerships
 * Recruited new volunteers through weekly active outreach and assisted in training new community volunteers
 * Documented weekly case conferences and updated the program's database
-* Designed two 1-hour workshops to teach teens about healthy relationships and drug and alcohol use using theories of harm reduction
+* Designed two 1-hour workshops to teach teens about healthy relationships and drug and alcohol use based in harm reduction
 
 ### UC San Diego Political Science Department	San Diego, CA
 <i>Research Assistant,	January 2021 - June 2021</i>
@@ -153,4 +161,14 @@ GPA: 3.97 | Awards: Received Provost Honors every quarter; Graduated Summa Cum L
 *	I was very involved in the planning and execution of my class’ senior project for which we organized and taught a dance class for senior citizens at my local community center.
 *	In addition to volunteering, I also held a leadership role every year. These included Class President, Vice President, Vice President of Philanthropy and more.
 
+## <a id="portfolio">Portfolio</a>
+### Food Access in San Jose, CA
+* A map created to explore food access throughout the city of San Jose.
+* The map can be accessed <a href="https://amelmer.github.io/web-mapping/final-project" target="_blank">here</a>.
+### Barriers to SNAP Enrollment in Chicago
+* A dashboard created to explore SNAP enrollment trends in Chicago.
+* The dashboard can be accessed <a href = "https://amelmer.shinyapps.io/snap_enrollment/" target="_blank">here</a>.
+### State Drug Paraphernalia Laws & Overdose Rates
+* A dashboard created to explore the relationship between state drug paraphernalia laws and drug overdose rates
+* The dashboard can be accessed <a href="https://amelmer.shinyapps.io/drug_laws_dashboard/" target="_blank">here</a>.
 
